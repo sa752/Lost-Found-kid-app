@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lost&amp;Found</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="hint_enter_name">Enter Full Name</string>
+    <string name="hint_enter_areaof_residence">Enter Area of Residence</string>
+    <string name="hint_enter_idnumber">Enter National ID Number</string>
+    <string name="hint_enter_phone_num">Enter Phone Number</string>
+    <string name="hint_description">Add Description[ie;name,age,clothes and area found]</string>
+    <string name="hint_title">Add Title[ie;specify the gender e.g lost/found boy/girl</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+</resources>
