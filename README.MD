@@ -8,11 +8,11 @@
 3. [Technologies](#Technologies)
 4. [Wireframe](#Wireframe)
 5. [Unified Modeling Language](#Unified-Modeling-Language)
-6. [Contributor](#Contributor)
 
 ## Introduction
 
-Lost & Found is an android application that allows CUNY students to post what they lost or found. The application has two main screen, Lost and Found tab. Lost tab is for user who lost their items on campus, whether it’s laptop or water bottle. The Found tab is for user who found items through the campus, for example school ID. Users can create post by taking a photo and writing a description of the lost/found item. The owner of the item can contact the user who found the item through Message, Call or Track features. Users can message each other by using the built-in messaging system. Users can also call if preferred. To return the item to the owner, user can use the Track feature. The Track is a feature that send an email to the user who found the item so that he/she can contact the owner of the item. User must fill out a form to verify the user identify (e.g. full name, school id, phone number). Then, the user need to sign the form through the built-in signature pad to accept the terms and conditions.
+Lost & Found kid app is an android application that allows parents and citizens to post a child they lost or found. The application has two main screen, Lost and Found tab. Lost tab is for a user who lost their child.The Found tab is for user who found a child. Users can create post by taking a photo and writing a description of the lost/found child. The parent of the child can contact the user who found the item through Message, Call or Track features. Users can message each other by using the built-in messaging system. Users can also call if preferred. To return the item to the owner, user can use the Track feature. The Track is a feature that send an email to the user who found the child so that he/she can contact the parent.User must fill out a form to verify the user identify (e.g. full name,national Id, phone number).
+
 
 ## Usage
 1) Open up the app and create an account.
@@ -20,7 +20,7 @@ Lost & Found is an android application that allows CUNY students to post what th
 3) Login and set up your profile and save your information.
 
 ## Technologies
-- Material UI
+- adobe photoshop
 - Android
 - Firebase
 
@@ -28,9 +28,6 @@ Lost & Found is an android application that allows CUNY students to post what th
 
 ![Wireframe](./imgs/wireframe.png)
 
-## Unified Modeling Language  
-
-![UML](./imgs/uml.png)
 
 **Activities**  
 - LoginActivity - Activity for user to enter their email and password.   
@@ -64,5 +61,4 @@ Lost & Found is an android application that allows CUNY students to post what th
 - PostAdapter - Extends ArrayAdapter to populates a list of posts into a Lost or Found fragment view.  
 - ViewPagerAdapter - Extends FragmentPagerAdapter to add fragments,lost & found, to switch between lost & found tab.
 
-## Contributor  
-Ho Ming Poon
+
